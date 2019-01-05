@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "bsearch.h": "c",
+        "test_bsearch.h": "c"
+    }
+}

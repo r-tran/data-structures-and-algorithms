@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "arraytests.h": "c",
+        "array.h": "c"
+    }
+}

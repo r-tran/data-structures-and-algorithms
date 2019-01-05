@@ -1,0 +1,16 @@
+C:\Users\rtran\Desktop\DSA\DSA\bin\Debug\DSA.exe.config
+C:\Users\rtran\Desktop\DSA\DSA\bin\Debug\DSA.exe
+C:\Users\rtran\Desktop\DSA\DSA\bin\Debug\DSA.pdb
+C:\Users\rtran\Desktop\DSA\DSA\obj\Debug\DSA.exe
+C:\Users\rtran\Desktop\DSA\DSA\obj\Debug\DSA.pdb
+\\psf\Home\Desktop\DSA\DSA\bin\Debug\DSA.exe.config
+\\psf\Home\Desktop\DSA\DSA\obj\Debug\DSA.exe
+\\psf\Home\Desktop\DSA\DSA\obj\Debug\DSA.pdb
+\\psf\Home\Desktop\DSA\DSA\bin\Debug\DSA.exe
+\\psf\Home\Desktop\DSA\DSA\bin\Debug\DSA.pdb
+\\psf\Home\Desktop\C#\DSA\DSA\obj\Debug\DSA.pdb
+\\psf\Home\Desktop\C#\DSA\DSA\bin\Debug\DSA.pdb
+\\psf\Home\Desktop\C#\DSA\DSA\obj\Debug\DSA.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\C#\DSA\DSA\bin\Debug\DSA.dll.config
+\\psf\Home\Desktop\C#\DSA\DSA\bin\Debug\DSA.dll
+\\psf\Home\Desktop\C#\DSA\DSA\obj\Debug\DSA.dll
